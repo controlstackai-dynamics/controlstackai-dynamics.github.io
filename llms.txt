@@ -1,0 +1,7 @@
+# ControlStackAI Dynamics — Autonomous Engineering Research
+
+> Public project and website references. HTML pages are canonical; project goals are not claims of completed implementation.
+
+## Pages
+
+- [ControlStackAI Dynamics — Autonomous Engineering Research](https://controlstackai-dynamics.github.io/): An open research initiative using autonomous AI research agents to discover, falsify, and refine control strategies for uncertain nonlinear systems.
