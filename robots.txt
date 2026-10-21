@@ -1,4 +1,2 @@
 User-agent: *
 Allow: /
-
-Sitemap: https://controlstackai-dynamics.github.io/sitemap.xml

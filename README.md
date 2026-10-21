@@ -1,34 +1,6 @@
-# ControlStackAI Dynamics
+# controlstackai-dynamics.github.io
 
-**Autonomous Control Research** — Public portfolio and research-program website.
+This site has moved. The Control Discovery research program now lives at https://aerospace-superintelligence.com/control/
 
-> Build a reproducible discovery engine for control laws that are more robust, efficient, or capable than established baselines.
-
-### Status
-
-Founding phase: research objectives, hypotheses, baseline toolchains, and milestones are being established. **No novel processor or control discovery is claimed.**
-
-### Website
-
-After publishing with GitHub Pages: **https://controlstackai-dynamics.github.io**
-
-Open `index.html` directly or run `python3 -m http.server 8000` inside this directory for local preview. No build step, package manager, or CDN dependency is required.
-
-### Research repository
-
-Planned private development repository: `controlstackai-dynamics/control-research`. Public evidence and reproducible research results will be published after validation.
-
-### Publishing
-
-1. Create the GitHub organization `controlstackai-dynamics` (if available).
-2. Create a public repository named **`controlstackai-dynamics.github.io`** within it, and push this directory.
-3. Under **Settings → Pages**, set **Build and deployment → Source → Deploy from a branch**, branch `main`, folder `/(root)`.
-4. Confirm the site renders and links work; update project-specific claims only after empirical verification.
-
-### Relationship
-
-Sister program: [ControlStackAI Silicon](https://controlstackai-silicon.github.io). Both programs ultimately aim at algorithm–hardware co-design.
-
-### Technical focus
-
-Nonlinear dynamics · Robust control · Algorithm discovery
+`index.html` and `404.html` redirect every path there (meta refresh plus canonical link, marked noindex).
+`google232c853721866f8f.html` keeps the Google Search Console verification for this address so its change of address can be tracked.

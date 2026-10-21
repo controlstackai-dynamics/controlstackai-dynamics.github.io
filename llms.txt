@@ -1,7 +1,5 @@
-# ControlStackAI Dynamics — Autonomous Engineering Research
+# Moved
 
-> Public project and website references. HTML pages are canonical; project goals are not claims of completed implementation.
+> The Control Discovery research program has moved to https://aerospace-superintelligence.com/control/
 
-## Pages
-
-- [ControlStackAI Dynamics — Autonomous Engineering Research](https://controlstackai-dynamics.github.io/): An open research initiative using autonomous AI research agents to discover, falsify, and refine control strategies for uncertain nonlinear systems.
+See https://aerospace-superintelligence.com/llms.txt for current pages.
